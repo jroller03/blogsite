@@ -2,28 +2,44 @@
 width: 25%;
 height: 25%;
 border: 2px solid #228B22;
-border-radius: 50%
+border-radius: 50%;
 }
-.me {
+
+.me{
 font-style: italic;
 font-size: 30px;
 color: #3CB371;
-border: 1px solid #3CB371;
+border: 2px solid #3CB371;
+background-color: black;
+margin-top: 50px;
+margin-bottom: 50px;
 }
 
 .interests{
 color: 	#800000;
-font-size: 20px
+font-size: 20px;
+margin-top: 50px;
+margin-bottom: 50px;
+border: 2px solid #3CB371;
+background-color: yellow;
 }
 
 .dislikes{
 color: #0000CD;
 font-size: 16px;
+margin-top: 50px;
+margin-bottom: 50px;
+border: 2px solid #3CB371;
+background-color: green;
 }
 
 .info{
 color: #FF4500;
 font-size: 14px;
+margin-top: 50px;
+margin-bottom: 50px;
+border: 2px solid #3CB371;
+background-color: blue;
 }
 
 body{
