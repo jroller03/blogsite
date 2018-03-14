@@ -1,0 +1,31 @@
+.selfie{
+width: 25%;
+height: 25%;
+border: 2px solid #228B22;
+border-radius: 50%
+}
+.me {
+font-style: italic;
+font-size: 30px;
+color: #3CB371;
+border: 1px solid #3CB371;
+}
+
+.interests{
+color: 	#800000;
+font-size: 20px
+}
+
+.dislikes{
+color: #0000CD;
+font-size: 16px;
+}
+
+.info{
+color: #FF4500;
+font-size: 14px;
+}
+
+body{
+  text-align: center;
+}
